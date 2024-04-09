@@ -10,10 +10,6 @@ Access records, view marks, and communicate effortlessly.
 
 <br>
 
-[Youtube Video](https://youtu.be/ol650KwQkgY?si=rKcboqSv3n-e4UbC)
-<br><br>
-[LinkedIn](https://www.linkedin.com/in/yogndr/)
-
 # About
 
 The School Management System is a web-based application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It aims to streamline school management, class organization, and facilitate communication between students, teachers, and administrators.
@@ -43,7 +39,7 @@ The School Management System is a web-based application built using the MERN (Mo
 # Installation
 
 ```sh
-git clone https://github.com/Yogndrr/MERN-School-Management-System.git
+git clone https://github.com/Abhiraj-cuchd/MERN-STACK-SMS.git
 ```
 Open 2 terminals in separate windows/tabs.
 
@@ -57,7 +53,7 @@ npm start
 Create a file called .env in the backend folder.
 Inside it write this :
 
-MONGO_URL = mongodb://127.0.0.1/school
+MONGO_URL = **YOUR_MONGO_URL**
 
 Instead of this link write your database link.
 
@@ -82,8 +78,4 @@ The problem here was that the .env file in the frontend was not working for othe
 So you have to do this in the frontend. After this the project will run smoothly if not then you can contact me.
 
 <br>
-
-# Deployment
-* Render - server side
-* Netlify - client side
 
